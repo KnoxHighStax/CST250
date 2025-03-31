@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\CarClassLibrary\bin\Debug\net8.0\CarClassLibrary.deps.json
+C:\Users\USER\source\repos\CarClassLibrary\bin\Debug\net8.0\CarClassLibrary.dll
+C:\Users\USER\source\repos\CarClassLibrary\bin\Debug\net8.0\CarClassLibrary.pdb
+C:\Users\USER\source\repos\CarClassLibrary\obj\Debug\net8.0\CarClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\CarClassLibrary\obj\Debug\net8.0\CarClassLibrary.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\CarClassLibrary\obj\Debug\net8.0\CarClassLibrary.AssemblyInfo.cs
+C:\Users\USER\source\repos\CarClassLibrary\obj\Debug\net8.0\CarClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CarClassLibrary\obj\Debug\net8.0\CarClassLibrary.dll
+C:\Users\USER\source\repos\CarClassLibrary\obj\Debug\net8.0\refint\CarClassLibrary.dll
+C:\Users\USER\source\repos\CarClassLibrary\obj\Debug\net8.0\CarClassLibrary.pdb
+C:\Users\USER\source\repos\CarClassLibrary\obj\Debug\net8.0\ref\CarClassLibrary.dll
