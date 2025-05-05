@@ -1,0 +1,18 @@
+[
+  { 
+    "Id": 1, 
+    "Name": "Quarter", 
+    "Value": 0.25 
+  },
+  { 
+    "Id": 2, 
+    "Name": "Keys", 
+    "Value": 12.38 
+  },
+  { 
+    "Id": 3, 
+    "Name": 
+    "Phone", 
+    "Value": 899.99 
+  }
+]

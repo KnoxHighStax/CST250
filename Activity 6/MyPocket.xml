@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfThing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Thing>
+    <Id>1</Id>
+    <Name>Quarter</Name>
+    <Value>0.25</Value>
+  </Thing>
+  <Thing>
+    <Id>2</Id>
+    <Name>Keys</Name>
+    <Value>12.38</Value>
+  </Thing>
+  <Thing>
+    <Id>3</Id>
+    <Name>Phone</Name>
+    <Value>899.99</Value>
+  </Thing>
+</ArrayOfThing>
